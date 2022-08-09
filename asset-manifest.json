@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Moive-MovieDetail/static/js/main.84416996.js",
-    "index.html": "/Moive-MovieDetail/index.html",
-    "main.84416996.js.map": "/Moive-MovieDetail/static/js/main.84416996.js.map"
+    "main.js": "/Moive-MovieDetail.git/static/js/main.84416996.js",
+    "index.html": "/Moive-MovieDetail.git/index.html",
+    "main.84416996.js.map": "/Moive-MovieDetail.git/static/js/main.84416996.js.map"
   },
   "entrypoints": [
     "static/js/main.84416996.js"
